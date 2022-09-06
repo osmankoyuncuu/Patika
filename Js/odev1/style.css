@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(95, 95, 95);
+  text-align: center;
+  padding: 5rem;
+  letter-spacing: 0.1rem;
+  color: #e98208;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.text {
+  font-size: 1.4rem;
+}
+#text-2 {
+  line-height: 2rem;
+}
