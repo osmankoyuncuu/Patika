@@ -1,1 +1,1 @@
-![ScreenShot](./Odev_1/screenshot.png)
+![ScreenShot](screenshot.png)
